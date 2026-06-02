@@ -1,1 +1,1 @@
-prin("Helly Rashmi Dumir")
+print("Helly Rashmi Dumir")
